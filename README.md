@@ -1,4 +1,4 @@
-# bingol
+# Bingöl Kent Mobil App Çalışması
 
 A new Flutter project.
 
